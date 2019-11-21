@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="goodslist_swipe_refresh" type="id" />
+    <item name="goodslist_recyclerview" type="id" />
+    <item name="goodslist_nodata" type="id" />
+</resources>
